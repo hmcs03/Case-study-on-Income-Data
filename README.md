@@ -1,2 +1,2 @@
-# Case-study-on-Income-Data
+# HMC's work on Python
 Data Cleaning using Pandas 
